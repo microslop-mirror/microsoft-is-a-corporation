@@ -1,0 +1,37 @@
+
+    .headline.svelte-1x4qkab {
+        display: block;
+        border: 2px solid gray;
+        margin: 20px;
+        padding: 10px;
+        padding-bottom: 0px;
+        font-family: sans-serif;
+    }
+
+    .headline.svelte-1x4qkab a:where(.svelte-1x4qkab) {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .title.svelte-1x4qkab {
+        color: black;
+        font-size: xx-large;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+
+	#contents.svelte-1n46o8q {
+		width: min(max(800px, 55vw), 100vw);
+		margin: auto;
+	}
+
+	#header.svelte-1n46o8q {
+		text-align: center;
+		background-color: rgb(0, 0, 0);
+	}
+
+	#header.svelte-1n46o8q img:where(.svelte-1n46o8q) {
+		height: 50%;
+	}
+

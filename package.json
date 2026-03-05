@@ -1,0 +1,23 @@
+{
+    "name": "microsoft-is-a-corporation",
+    "version": "1.0.0",
+    "description": "Microsoft CEO claims 30% of its new code is written by AI...",
+    "type": "module",
+    "scripts": {
+        "dev": "rollup -c -w",
+        "release": "rollup -c --environment INCLUDE_DEPS,BUILD:production",
+        "start": "http-server ."
+    },
+    "author": "vExcess",
+    "devDependencies": {
+        "svelte": "^5.16.0"
+    },
+    "dependencies": {
+        "@rollup/plugin-commonjs": "^28.0.2",
+        "@rollup/plugin-node-resolve": "^16.0.0",
+        "@rollup/plugin-terser": "^0.4.4",
+        "rollup-plugin-css-only": "^4.5.2",
+        "rollup-plugin-livereload": "^2.0.5",
+        "rollup-plugin-svelte": "^7.2.2"
+    }
+}
