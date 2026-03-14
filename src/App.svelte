@@ -180,6 +180,9 @@
 		headline("Microsoft finally admits almost all major Windows 11 core features are broken", [
 			"https://www.neowin.net/news/microsoft-finally-admits-almost-all-major-windows-11-core-features-are-broken/",
 		]),
+		headline("Microsoft confirms Windows 11 bug crippling PCs and making drive C inaccessible", [
+			"https://www.neowin.net/news/microsoft-confirms-windows-11-bug-crippling-pcs-and-making-drive-c-inaccessible/",
+		]),
 	];
 </script>
 
