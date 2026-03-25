@@ -183,6 +183,9 @@
 		headline("Microsoft confirms Windows 11 bug crippling PCs and making drive C inaccessible", [
 			"https://www.neowin.net/news/microsoft-confirms-windows-11-bug-crippling-pcs-and-making-drive-c-inaccessible/",
 		]),
+		headline("Update KB5079473 breaks sign-ins on Teams and OneDrive", [
+			"https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/",
+		]),
 	];
 </script>
 
