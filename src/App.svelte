@@ -186,6 +186,13 @@
 		headline("Update KB5079473 breaks sign-ins on Teams and OneDrive", [
 			"https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/",
 		]),
+		headline("This month's Windows 11 update broke the Recycle Bin, OneDrive, and possibly your PC's stability", [
+			"https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html",
+			"https://www.windowslatest.com/2026/06/19/microsoft-confirms-windows-11-update-breaks-recycle-bin-delete-prompts-but-your-files-are-still-safe/",
+		]),
+		headline("Windows 11's New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs", [
+			"https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+		]),
 	];
 </script>
 
